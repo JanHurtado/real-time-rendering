@@ -1,0 +1,24 @@
+\begin{thebibliography}{KC{\v{Z}}O07}
+
+\bibitem[BP07]{pinocchio}
+Ilya Baran and Jovan Popovi{\'c}.
+\newblock Automatic rigging and animation of 3d characters.
+\newblock In {\em ACM Transactions on Graphics (TOG)}, volume~26, page~72. ACM,
+  2007.
+
+\bibitem[KC{\v{Z}}O07]{dual}
+Ladislav Kavan, Steven Collins, Ji{\v{r}}{\'\i} {\v{Z}}{\'a}ra, and Carol
+  O'Sullivan.
+\newblock Skinning with dual quaternions.
+\newblock In {\em Proceedings of the 2007 symposium on Interactive 3D graphics
+  and games}, pages 39--46. ACM, 2007.
+
+\bibitem[LCF00]{ssd}
+John~P Lewis, Matt Cordner, and Nickson Fong.
+\newblock Pose space deformation: a unified approach to shape interpolation and
+  skeleton-driven deformation.
+\newblock In {\em Proceedings of the 27th annual conference on Computer
+  graphics and interactive techniques}, pages 165--172. ACM
+  Press/Addison-Wesley Publishing Co., 2000.
+
+\end{thebibliography}
