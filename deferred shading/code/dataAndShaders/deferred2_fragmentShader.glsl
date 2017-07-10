@@ -45,7 +45,7 @@ void main()
 		light = light +  clamp(diffuseLight, 0, 1) + specularLight;
 	}
 	FragColor = light * vec4(Diffuse,1.0);
-	FragColor = vec4(Diffuse,1.0);
+	//FragColor = vec4(Diffuse,1.0);
 	
 
 }
